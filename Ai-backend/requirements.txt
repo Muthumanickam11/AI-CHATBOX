@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+supabase
+sqlalchemy
+psycopg2-binary
+asyncpg
+pydantic
+pydantic-settings
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+requests

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is AI?",
+        "answer": "AI (Artificial Intelligence) is the simulation of human intelligence by machines, enabling them to learn, reason, and solve problems."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed."
+    },
+    {
+        "question": "What is deep learning?",
+        "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to analyze data patterns."
+    },
+    {
+        "question": "What is natural language processing?",
+        "answer": "NLP is a branch of AI that helps computers understand, interpret, and generate human language."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a computing system inspired by biological neural networks that processes information through interconnected nodes."
+    }
+]
